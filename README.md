@@ -1,5 +1,5 @@
 ## Hi there 👋,I'm Annu Rai
-### Aspiring Data Analyst | Python . SQL . Power BI . Advanced Excel
+### Aspiring Data Analyst | Python . SQL . Power BI . Advanced Excel . Statistics
 I'm a Data Analyst with a strong background in Statistics and Mathematics ,passionate about turning raw data into actionable insights and beautiful dashboards.
 
 <!--
