@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋,I'm Annu Rai
+### Aspiring Data Analyst | Python . SQL . Power BI . Advanced Excel
+I'm a Data Analyst with a strong background in Statistics and Mathematics ,passionate about turning raw data into actionable insights and beautiful dashboards.
 
 <!--
 **annu-analyst/annu-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
